@@ -1,6 +1,6 @@
-# TailAdmin Pro - React.js (v2.0)
+# TailAdmin Pro - Next.js (v2.0)
 
-[TailAdmin](https://tailadmin.com) is a modern, responsive, and customizable admin dashboard template built using Tailwind CSS and React.js. It is designed to help developers build beautiful and functional dashboards quickly and easily.
+[TailAdmin](https://tailadmin.com) is a modern, responsive, and customizable admin dashboard template built using Tailwind CSS and Next.js. It is designed to help developers build beautiful and functional dashboards quickly and easily.
 
 ## Quick Links
 
@@ -32,9 +32,9 @@ To get started with TailAdmin, ensure you have the following prerequisites insta
 2. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    # or
-   yarn start
+   yarn dev
    ```
 
    Runs the app in the development mode.\
